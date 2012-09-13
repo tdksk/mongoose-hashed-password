@@ -3,7 +3,7 @@ mongoose-hashed-password
 
 hashed password setter to mongoose schema
 
-Ezample
+Example
 -------
 
     require('mongoose-hashed-password');
