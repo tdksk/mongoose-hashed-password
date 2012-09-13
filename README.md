@@ -3,6 +3,11 @@ mongoose-hashed-password
 
 hashed password setter to mongoose schema
 
+Installation
+------------
+
+    $ npm install mongoose-hashed-password
+
 Example
 -------
 
