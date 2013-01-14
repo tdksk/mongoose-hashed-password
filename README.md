@@ -33,7 +33,7 @@ Add Validation
 --------------
 
 ```javascript
-User.setHashedPassword('sha256', validatePassword);
+User.defineHashedPassword('sha256', validatePassword);
 
 function validatePassword(value) {
     return value && value.length >= 4;  // The password must be at least 4 characters long
