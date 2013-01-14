@@ -1,7 +1,7 @@
 {
   "name": "mongoose-hashed-password",
   "description": "hashed password setter to mongoose schema",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Keisuke Tada",
     "email": "tdkskdt@gmail.com"
